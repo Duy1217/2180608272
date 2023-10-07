@@ -1,4 +1,5 @@
 
+
 # 2180608272 / 21DTHD2
 
 | **Function**                      | **Describe** |
@@ -10,7 +11,7 @@
 | **Owner**                         | Nguyễn Phước Duy_2180608272 |
 | **Iteration**                     | The book lookup function is expected to be implemented in the 5th part of the library management application development project. |
 
-# 2180607481
+# 2180607481 / 21DTHD2
 
 | **Function**                      | **Describe** |
 |-----------------------------------|-----------------------------------------|
@@ -31,3 +32,14 @@
 |**Owner**|Dat|
 |**Iteration**| Unscheduled|
 |**Estimate**| 3 point|
+
+# 2180605180 / 21DTHD2
+
+| **Title**             | Manage book warehouse|
+|-------------------|----------------------|
+| **Value Statement** | As a library manager, I want to manage libraries at school and company, so I can manage books more easily. |
+|**Acceptance Criteria** |<ins> Acceptance Criteria 1:</ins><br> Library system support software allows creating inventory receipts, thereby easily controlling the number of books.<p> <br> <ins>Acceptance Criteria 2:<br></ins> Software helps libraries manage liquidation of books and documents, for example, statistics on date, month, year, content, book title, price.... Easy to classify and look up.|
+|**Definition of Done** |  Manage the output quantity of books |
+| **Owner** | VAN HUY |
+| **Ieration** |Unscheduled |
+| **Estimate** | 3 Points |
