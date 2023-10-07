@@ -1,5 +1,4 @@
 
-
 # 2180608272 / 21DTHD2
 
 | **Function**                      | **Describe** |
@@ -43,3 +42,15 @@
 | **Owner** | VAN HUY |
 | **Ieration** |Unscheduled |
 | **Estimate** | 3 Points |
+
+# 2180607551 / 21DTHD2
+| Tiltle | library manager - look up the location of a book so I can find it quickly in the library.  |
+| ---------- | ---------- |
+| **Value Statement** | As a library patron,I want to be able to easily find the location of a bookso I can find it quickly in the library.  |
+| **Acceptance criteria** | **Acceptance criteria 1**: When I access the library's catalog system, there will be a search bar displayed prominently on the home page.<p>**Acceptance criteria 2**: I can enter the title, author, or ISBN of the book I'm looking for into the search bar.<p>**Acceptance criteria 3** : After entering a search query and submitting it, I see a list of search results.<p>**Acceptance criteria 4** : Each search result displays the book's title, author, availability, and location in the library.<p>**Acceptance criteria 5** : If books are available, the location must specify the price or area where the books can be found.<p>**Acceptance criteria 6** : If the book is currently checked out, the availability status will indicate the expected return date.<p>**Acceptance criteria 7** : I will have the option to further refine my search by using filters such as book genre, year of publication, or language.<p>**Acceptance criteria 8** : When I select a specific book from search results, I can see additional details about that book, including a summary, cover art, and reviews if available.<p>**Acceptance criteria 9** : If the book is part of a series, series information will also be displayed.<p>**Acceptance criteria 10** : Search results and book details must be presented in an intuitive and user-friendly way, making it easy for me to find the desired book in the library.|
+| **Definition of Done** |* The search functionality is implemented and integrated into the library's catalog system.<p>* The search bar allows users to enter the title, author, or ISBN of the book.<p>* The search query is processed, and relevant search results are retrieved from the library's database.<p>* The search results display the book's title, author, availability status, and location within the library.<p>* The book's location specifies the shelf or section where the book can be found within the library.<p>* Users have the option to further refine their search using filters such as genre, publication year, or language.<p>* Search results and book details are presented in a user-friendly and intuitive manner, ensuring ease of use for library patrons.<p>* Documentation, such as user guides or help documents, is updated to include instructions on how to use the book location lookup feature. |
+|**owner**|Huy |
+|**Interation**| |
+|**Estimate**| 5Poitn|
+
+
