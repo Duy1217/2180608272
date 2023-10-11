@@ -21,4 +21,3 @@
 | **Owner**                         | Trần Thanh Hiền - 2180607481 |
 | **Iteration**                     | The Creation and Printion library cards function is expected to be implemented in the 2th part of the library management application development project. |
 
-....
